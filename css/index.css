@@ -312,13 +312,14 @@ img{
     margin-bottom: 60px;
 }
 .space{
-    margin-inline: 60px;
+    margin-inline: 15px;
     text-align: center;
+    width:22%
 }
 .space p{
     font-size: 20px;
     color: #4a5565;
-    line-height: 1.625;
+    line-height: 1.625; 
 }
 .space h3{
     font-size: 30px;
